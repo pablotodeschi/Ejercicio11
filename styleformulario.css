@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+form{
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+div{
+    padding: 10px;
+}
+
+label{
+    font-style: italic;
+    font-size: 1.3rem;
+    font-family: monospace; 
+}
+
+
+input{
+    margin-top: 5px;
+    padding: 10px;
+    width: 500px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    box-sizing: border-box;
+    
+}
+
+h1{
+    padding: 10px;
+}
+
+select{
+    margin-top: 5px;
+    padding: 10px;
+    width: 500px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    box-sizing: border-box;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    width: 500px;
+}
